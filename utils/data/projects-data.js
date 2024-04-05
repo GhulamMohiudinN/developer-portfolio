@@ -22,7 +22,7 @@ export const projectsData = [
       "PM2",
       "Nginx",
     ],
-    role: "Front-End Developer",
+    role: "Full Stack Developer",
     code: "",
     demo: "",
     image: crefin,
