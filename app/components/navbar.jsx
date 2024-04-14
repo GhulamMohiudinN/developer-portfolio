@@ -65,7 +65,7 @@ function Navbar() {
               </div>
             </a>
           </li> */}
-          <li>
+          {/* <li>
             <a
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
               href="#projects"
@@ -74,7 +74,7 @@ function Navbar() {
                 PROJECTS
               </div>
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </nav>
