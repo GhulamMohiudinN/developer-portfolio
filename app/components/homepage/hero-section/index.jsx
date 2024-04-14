@@ -122,19 +122,19 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NextJS</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Redux</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Express</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NestJS</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MySql</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MongoDB</span>
-                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Redux-Toolkit</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Axios</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Bootstrap</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Tailwind</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Material UI</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Balsamiq</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Team-Leader</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
